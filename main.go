@@ -1,1 +1,2 @@
-func start(){}
+package main
+func main(){}
